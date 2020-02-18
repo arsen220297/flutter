@@ -17,18 +17,3 @@ class ProjectBody extends StatelessWidget{
     
   }
 }
-
-// class MyWidget extends StatelessWidget {
-
-//   @override
-//   Widget build(BuildContext context) {
-//     return new GestureDetector(
-//       onTap: () {
-//            ProjectBody(
-        
-//             backgroundColor: Colors.blue,
-//         );
-//       }
-//     );
-//   }
-// }
